@@ -1,2 +1,3 @@
-# home-sweet-home
-~ Sweet ~
+~/ Sweet ~/
+
+My dots!
