@@ -3,3 +3,5 @@
 ## Programs used
 
 Terminal: Kitty
+
+Launcher: ULauncher
