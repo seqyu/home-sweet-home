@@ -158,3 +158,13 @@ binds {
     // moving the mouse or pressing any other key.
     Mod+Shift+P { power-off-monitors; }
 }
+
+// Cursor
+cursor {
+    xcursor-theme "breeze_cursors"
+    xcursor-size 48
+
+    hide-when-typing
+    hide-after-inactive-ms 100
+}
+
