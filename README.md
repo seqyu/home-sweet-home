@@ -12,6 +12,9 @@ Panel: Waybar
 
 Wallpaper Manager: Swaybg
 
+## Infos
+
+Wallpaper should be in `~/Pictures/wallpaper.png`
 ## Credits
 
 Borrowed permanently the base of the Waybar theme from https://github.com/kamlendras/waybar-config/blob/main/.config
