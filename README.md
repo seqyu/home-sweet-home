@@ -1,5 +1,5 @@
 ![Header](https://github.com/user-attachments/assets/771cfa88-bfaa-486e-a6af-bea3be303bbf)
-![Preview](https://github.com/AverageFrenchGuy/home-sweet-home/blob/main/Frame%20147(1).png?raw=true)
+![Frame 147(2)](https://github.com/user-attachments/assets/d44a7de8-4edc-4422-aee6-18832a599d84)
 ## Programs used
 
 Wayland Compositor: Niri
