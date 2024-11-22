@@ -1,5 +1,6 @@
 // Startup programs
 spawn-at-startup "ulauncher"
+spawn-at-startup "waybar"
 // Keyboard layout
 input {
     keyboard {
