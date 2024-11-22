@@ -5,3 +5,9 @@
 Terminal: Kitty
 
 Launcher: ULauncher
+
+Panel: Waybar
+
+## Credits
+
+Borrowed the base of the Waybar theme from https://github.com/kamlendras/waybar-config/blob/main/.config
