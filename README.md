@@ -10,4 +10,4 @@ Panel: Waybar
 
 ## Credits
 
-Borrowed the base of the Waybar theme from https://github.com/kamlendras/waybar-config/blob/main/.config
+Borrowed permanently the base of the Waybar theme from https://github.com/kamlendras/waybar-config/blob/main/.config
