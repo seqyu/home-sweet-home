@@ -2,13 +2,15 @@
 
 ## Programs used
 
-Terminal: Kitty
+Wayland Compositor: Niri
+
+Terminal Emulator: Kitty
 
 Launcher: ULauncher
 
 Panel: Waybar
 
-Wallpaper program: Azote
+Wallpaper Manager: Azote
 
 ## Credits
 
