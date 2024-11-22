@@ -10,7 +10,7 @@ Launcher: ULauncher
 
 Panel: Waybar
 
-Wallpaper Manager: Swaybg
+Wallpaper Manager: Swww
 
 ## Infos
 
