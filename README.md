@@ -12,6 +12,8 @@ Panel: Waybar
 
 Wallpaper Manager: Swww
 
+Shell: ZSH
+
 ## Infos
 
 Wallpaper should be in `~/Pictures/wallpaper.png`
