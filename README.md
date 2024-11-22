@@ -10,7 +10,7 @@ Launcher: ULauncher
 
 Panel: Waybar
 
-Wallpaper Manager: Azote
+Wallpaper Manager: Waypaper
 
 ## Credits
 
