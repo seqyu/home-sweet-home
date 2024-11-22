@@ -1,6 +1,8 @@
 // Startup programs
 spawn-at-startup "ulauncher"
 spawn-at-startup "waybar"
+spawn-at-startup "swww-daemon"
+spawn-at-startup "swww img ~/Pictures/wallpaper.png"
 // Keyboard layout
 input {
     keyboard {
@@ -162,10 +164,9 @@ binds {
 
 // Cursor
 cursor {
-    xcursor-theme "breeze_cursors"
-    xcursor-size 48
+    xcursor-theme "Bibata-Modern-Classic"
+    xcursor-size 24
 
     hide-when-typing
-    hide-after-inactive-ms 100
+    hide-after-inactive-ms 60000
 }
-
