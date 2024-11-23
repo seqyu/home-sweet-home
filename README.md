@@ -16,6 +16,8 @@ Shell: ZSH
 
 Cursor: Bibata Modern Original
 
+Text Editor: Code - OSS
+
 ## Infos
 
 Wallpaper should be in `~/Pictures/wallpaper.png`
