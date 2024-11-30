@@ -14,7 +14,7 @@ Wallpaper Manager: Swww
 
 Shell: ZSH
 
-Cursor: Bibata Modern Original
+Cursor: Bibata Original Classic
 
 Text Editor: Code - OSS
 
