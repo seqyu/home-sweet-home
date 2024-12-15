@@ -1,8 +1,15 @@
+// $HOME SWEET ~/
 // Startup programs
-spawn-at-startup "ulauncher"
-spawn-at-startup "waybar"
-spawn-at-startup "swww-daemon"
-spawn-at-startup "swww img ~/Pictures/wallpaper.png"
+spawn-at-startup "ulauncher" // application launcher
+spawn-at-startup "waybar" // status bar
+spawn-at-startup "swww-daemon" // wallpaper daemon
+spawn-at-startup "swww img ~/Pictures/wallpaper.png" // set wallpaper
+spawn-at-startup "xwayland-satellite" // x11 compatibility
+// Env variables
+environment {
+	DISPLAY ":0"
+}
+
 // Keyboard layout
 input {
     keyboard {
@@ -39,7 +46,7 @@ binds {
     // when running as a winit window.
     //
     // Most actions that you can bind here can also be invoked programmatically with
-    // `niri msg action do-something`.
+    // `niri msg action do- something`.
 
     // Mod-Shift-/, which is usually the same as Mod-?,
     // shows a list of important hotkeys.
