@@ -18,6 +18,9 @@ Cursor: Bibata Original Classic
 
 Text Editor: Code - OSS
 
+### Other required programs
+
+xdg-desktop-portal-wlr
 ## Infos
 
 Wallpaper should be in `~/Pictures/wallpaper.png`
