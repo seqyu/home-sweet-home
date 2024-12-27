@@ -18,6 +18,8 @@ Cursor: Bibata Original Classic
 
 Text Editor: Code - OSS
 
+Notification daemon: Mako
+
 ### Other required programs
 
 xdg-desktop-portal-wlr
