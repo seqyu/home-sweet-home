@@ -23,7 +23,7 @@ Notification daemon: Mako
 ### Other required programs
 
 xdg-desktop-portal-wlr
-## Infos
+## Additional Infos
 
 Wallpaper should be in `~/Pictures/wallpaper.png`
 
