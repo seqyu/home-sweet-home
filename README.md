@@ -1,7 +1,9 @@
 ![Header](https://github.com/user-attachments/assets/771cfa88-bfaa-486e-a6af-bea3be303bbf)
 > [!WARNING]
 > Home-Sweet-Home Niri is not updated anymore.
-> for a more up-to-date version please check out Home-Sweet-Home i3
+> 
+> for a more up-to-date version please check out Home-Sweet-Home i3 on branch main
+> 
 ![Frame 147(2)](https://github.com/user-attachments/assets/d44a7de8-4edc-4422-aee6-18832a599d84)
 ## Programs used
 
