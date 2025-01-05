@@ -1,5 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/771cfa88-bfaa-486e-a6af-bea3be303bbf)
-![Frame 147(2)](https://github.com/user-attachments/assets/d44a7de8-4edc-4422-aee6-18832a599d84)
+> [!NOTE]
+> Home-Sweet-Home i3 is not available at the moment. Please check out the (unsupported) Home-Sweet-Home Niri in the other branch.
 ## Programs used
 
 Wayland Compositor: Niri
