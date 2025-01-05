@@ -3,23 +3,7 @@
 > Home-Sweet-Home i3 is not available at the moment. Please check out the (unsupported) Home-Sweet-Home Niri in the other branch.
 ## Programs used
 
-Wayland Compositor: Niri
-
-Terminal Emulator: Kitty
-
-Launcher: ULauncher
-
-Panel: Waybar
-
-Wallpaper Manager: Swww
-
-Shell: ZSH
-
-Cursor: Bibata Original Classic
-
-Text Editor: Code - OSS
-
-Notification daemon: Mako
+Window Manager: i3
 
 ### Other required programs
 
