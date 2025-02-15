@@ -1,6 +1,6 @@
 ![Header](https://github.com/user-attachments/assets/771cfa88-bfaa-486e-a6af-bea3be303bbf)
-> [!NOTE]
-> Home-Sweet-Home i3 is not available at the moment. Please check out the (unsupported) Home-Sweet-Home Niri in the other branch.
+> [!IMPORTANT]  
+> soon:tm:
 ## Programs used
 
 Window Manager: i3
